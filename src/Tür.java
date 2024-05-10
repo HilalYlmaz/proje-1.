@@ -1,5 +1,3 @@
-package main;
-
 public enum Tür{
     Romanlar,
     PolisiyeGizem,

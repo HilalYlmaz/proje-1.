@@ -1,76 +1,10 @@
-Romanlar:
-
-Suç ve Ceza - Fyodor Dostoyevski - 480 sayfa - 25 TL
-1984 - George Orwell - 320 sayfa - 20 TL
-Bülbülü Öldürmek - Harper Lee - 368 sayfa - 22 TL
-Sefiller - Victor Hugo - 1500 sayfa - 40 TL
-Beyaz Diş - Jack London - 256 sayfa - 18 TL
-Körfez - Andre Dubus III - 688 sayfa - 30 TL
-Kırmızı Pazartesi - Gabriel García Márquez - 224 sayfa - 15 TL
-Bir İdam Mahkumunun Son Günü - Victor Hugo - 352 sayfa - 24 TL
-Kan Kırmızı - Orhan Pamuk - 416 sayfa - 28 TL
-Yerdeniz Büyücüsü - Ursula K. Le Guin - 336 sayfa - 26 TL
-
-Polisiye ve Gizem:
-
-Sherlock Holmes - Bütün Maceralar - Arthur Conan Doyle - 768 sayfa - 35 TL
-Kızıl Dosya - Agatha Christie - 256 sayfa - 20 TL
-Kar - Orhan Pamuk - 400 sayfa - 28 TL
-Dört Köşeli Üçgen - Agatha Christie - 224 sayfa - 18 TL
-Gölgesizler - Hasan Ali Toptaş - 432 sayfa - 30 TL
-
-Bilim Kurgu ve Fantastik:
-
-Yüzüklerin Efendisi - J.R.R. Tolkien - 1216 sayfa - 45 TL
-Dune - Frank Herbert - 688 sayfa - 35 TL
-Bilinmeyen Bir Kadının Mektubu - Stefan Zweig - 96 sayfa - 12 TL
-Yerdeniz Büyücüsü - Ursula K. Le Guin - 336 sayfa - 26 TL
-Zaman Makinesi - H.G. Wells - 128 sayfa - 15 TL
-
-Biyografi ve Otobiyografi:
-
-Benim Hatıratım - Mustafa Kemal Atatürk - 256 sayfa - 20 TL
-Steve Jobs - Walter Isaacson - 656 sayfa - 32 TL
-Einstein: Bir Hayat - Walter Isaacson - 704 sayfa - 34 TL
-Malcolm X'in Anıları - Malcolm X - 460 sayfa - 28 TL
-Bilinmeyen Bir Kadının Mektubu - Stefan Zweig - 96 sayfa - 12 TL
-
-Tarih ve Siyaset:
-
-Sapiens: İnsan Türünün Kısa Bir Tarihi - Yuval Noah Harari - 416 sayfa - 30 TL
-1984 - George Orwell - 320 sayfa - 20 TL
-Hayvan Çiftliği - George Orwell - 144 sayfa - 12 TL
-Siyasal İslam Üzerine - Alev Alatlı - 368 sayfa - 25 TL
-Kürk Mantolu Madonna - Sabahattin Ali - 208 sayfa - 18 TL
-
-Psikoloji ve Felsefe:
-
-Kendine Ait Bir Oda - Virginia Woolf - 128 sayfa - 15 TL
-Zamanın Kısa Tarihi - Stephen Hawking - 272 sayfa - 25 TL
-Mutluluk - Matthieu Ricard - 352 sayfa - 28 TL
-Duygusal Zeka - Daniel Goleman - 384 sayfa - 30 TL
-Varoluşçu Cafe - Sarah Bakewell - 448 sayfa - 32 TL
-
-Dini ve Spiritüel:
-
-Kuran-ı Kerim - - 604 sayfa - 10 TL
-Tespih Taneleri - İsmail Akgün - 176 sayfa - 18 TL
-İncil - - 1000 sayfa - 15 TL
-Buda'nın Küçük Kitabı - Jack Kornfield - 224 sayfa - 20 TL
-Kur'an-ı Kerim ve Açıklamalı Meali - - 1456 sayfa - 30 TL
-
-Klasikler:
-
-Suç ve Ceza - Fyodor Dostoyevski - 480 sayfa - 25 TL
-Bülbülü Öldürmek - Harper Lee - 368 sayfa - 22 TL
-Sefiller - Victor Hugo - 1500 sayfa - 40 TL
-Kırmızı Pazartesi - Gabriel García Márquez - 224 sayfa - 15 TL
-İki Şehrin Hikayesi - Charles Dickens - 352 sayfa - 24 TL
-
-Şiir:
-
-Bütün Şiirleri - Orhan Veli Kanık - 256 sayfa - 20 TL
-Divan - Yunus Emre - 200 sayfa - 18 TL
-Çile - Cemal Süreya - 192 sayfa - 16 TL
-Sessizlik İstiyoruz - Ahmed Arif - 120 sayfa - 12 TL
-Çocukluğum - Nazım Hikmet - 256 sayfa - 20 TL
+1 - Romanlar - Suç ve Ceza - Fyodor Dostoyevski - 480 - 25
+2 - Romanlar - 1984 - George Orwell - 320 - 20
+3 - Romanlar - Bülbülü Öldürmek - Harper Lee - 368 - 22
+4 - Romanlar - Sefiller - Victor Hugo - 1500 - 40
+5 - Romanlar - Beyaz Diş - Jack London - 256 - 18
+6 - Romanlar - Körfez - Andre Dubus III - 688 - 30
+7 - Romanlar - Kırmızı Pazartesi - Gabriel García Márquez - 224 - 15
+8 - Romanlar - Bir İdam Mahkumunun Son Günü - Victor Hugo - 352 - 24
+9 - Romanlar - Kan Kırmızı - Orhan Pamuk - 416 - 28
+10 - Romanlar - Yerdeniz Büyücüsü - Ursula K. Le Guin - 336 - 26
