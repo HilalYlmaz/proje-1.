@@ -1,10 +1,30 @@
 import java.io.*;
-import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class DosyayaIslemleri {
+public class DosyaIslemleri {
+
+    public static void sil(File dosya, int id){
+        List<Kitap> kitapList = dosyaOkuma(dosya);
+        kitapList.remove(id-1);
+
+        dosyayaEkle(kitapList, dosya);
+    }
+
+    public static void guncelle(File dosya, int id, double guncelFiyat){
+        List<Kitap> kitapList = dosyaOkuma(dosya);
+
+        for (Kitap k : kitapList){
+            if (k.getId()== id){
+                k.setFiyat(guncelFiyat);
+            }
+        }
+        for (Kitap k: kitapList){
+            System.out.println(k);
+        }
+        dosyayaEkle(kitapList,dosya);
+    }
     public static void dosyaBilgileri(File dosya) {
         if(dosya.exists()){
             System.out.println("Dosya Adı: " + dosya.getName());
@@ -21,7 +41,7 @@ public class DosyayaIslemleri {
             Scanner myReader = new Scanner(dosya);
             while (myReader.hasNextLine()){
                 String data = myReader.nextLine();
-                System.out.println(data);
+//                System.out.println(data);
                 String[] array= data.split(" - ");
                 Kitap kitap1 = new Kitap(   Integer.valueOf(array[0]), Tür.valueOf(array[1]), array[2], array[3],Integer.valueOf(array[4]), Double.valueOf(array[5]) );
 
@@ -38,12 +58,13 @@ public class DosyayaIslemleri {
     }
     public static void dosyayaEkle(List<Kitap> kitaplar , File dosya) {
 
+
         try {
-            BufferedWriter writer = new BufferedWriter(new FileWriter(dosya, true));
+            BufferedWriter writer = new BufferedWriter(new FileWriter(dosya, false));
             for (Kitap k: kitaplar ){
                 writer.write(k.toString());
                 writer.newLine();
-                System.out.println("Dosyaya eklendi");
+//                System.out.println("Dosyaya eklendi");
             }
             writer.close();
 
@@ -52,6 +73,20 @@ public class DosyayaIslemleri {
         }
 
         System.out.println();
+
+    }
+
+    public static void dosyayaEkle (List<Kitap> kitaplar , File dosya, Kitap yeniKitap){
+        try{
+            BufferedWriter writer = new BufferedWriter(new FileWriter(dosya, true));
+            writer.write(yeniKitap.toString());
+            writer.newLine();
+            writer.close();
+
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
+        kitaplar.add(yeniKitap);
 
     }
     }

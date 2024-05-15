@@ -1,10 +1,36 @@
-1 - Romanlar - Suç ve Ceza - Fyodor Dostoyevski - 480 - 25
-2 - Romanlar - 1984 - George Orwell - 320 - 20
-3 - Romanlar - Bülbülü Öldürmek - Harper Lee - 368 - 22
-4 - Romanlar - Sefiller - Victor Hugo - 1500 - 40
-5 - Romanlar - Beyaz Diş - Jack London - 256 - 18
-6 - Romanlar - Körfez - Andre Dubus III - 688 - 30
-7 - Romanlar - Kırmızı Pazartesi - Gabriel García Márquez - 224 - 15
-8 - Romanlar - Bir İdam Mahkumunun Son Günü - Victor Hugo - 352 - 24
-9 - Romanlar - Kan Kırmızı - Orhan Pamuk - 416 - 28
-10 - Romanlar - Yerdeniz Büyücüsü - Ursula K. Le Guin - 336 - 26
+1 - Romanlar - Suç ve Ceza - Fyodor Dostoyevski - 480 - 25.0
+2 - Romanlar - 1984 - George Orwell - 320 - 20.0
+3 - Romanlar - Bülbülü Öldürmek - Harper Lee - 368 - 22.0
+4 - Romanlar - Sefiller - Victor Hugo - 1500 - 40.0
+5 - Romanlar - Beyaz Diş - Jack London - 256 - 18.0
+6 - Romanlar - Körfez - Andre Dubus III - 688 - 30.0
+7 - Romanlar - Kırmızı Pazartesi - Gabriel García Márquez - 224 - 55.0
+8 - Romanlar - Bir İdam Mahkumunun Son Günü - Victor Hugo - 352 - 24.0
+9 - Romanlar - Kan Kırmızı - Orhan Pamuk - 416 - 28.0
+10 - Romanlar - Yerdeniz Büyücüsü - Ursula K. Le Guin - 336 - 26.0
+11 - PolisiyeGizem - Sherlock Holmes Bütün Maceralar - Arthur Conan Doyle - 768 - 35.0
+12 - PolisiyeGizem - Kızıl Dosya - Agatha Christie - 256 - 20.0
+13 - PolisiyeGizem - Kar - Orhan Pamuk - 400 - 28.0
+14 - PolisiyeGizem - Dört Köşeli Üçgen - Agatha Christie - 224 - 18.0
+15 - PolisiyeGizem - Gölgesizler - Hasan Ali Toptaş - 432 - 30.0
+16 - BilimKurguFantastik - Yüzüklerin Efendisi - J.R.R. Tolkien - 1216 - 45.0
+17 - BilimKurguFantastik - Dune - Frank Herbert - 688 - 35.0
+18 - BilimKurguFantastik - Bilinmeyen Bir Kadının Mektubu - Stefan Zweig - 96 - 12.0
+19 - BilimKurguFantastik - Yerdeniz Büyücüsü - Ursula K. Le Guin - 336 - 26.0
+20 - BilimKurguFantastik - Zaman Makinesi - H.G. Wells - 128 - 15.0
+21 - BiyografiOtobiyografi - Benim Hatıratım - Mustafa Kemal Atatürk - 256 - 20.0
+22 - BiyografiOtobiyografi - Steve Jobs - Walter Isaacson - 656 - 32.0
+23 - BiyografiOtobiyografi - Einstein: Bir Hayat - Walter Isaacson - 704 - 34.0
+24 - BiyografiOtobiyografi - Malcolm X'in Anıları - Malcolm X - 460 - 28.0
+25 - BiyografiOtobiyografi - Bilinmeyen Bir Kadının Mektubu - Stefan Zweig - 96 - 12.0
+26 - TarihSiyaset - Sapiens: İnsan Türünün Kısa Bir Tarihi - Yuval Noah Harari - 416 - 30.0
+27 - TarihSiyaset - 1984 - George Orwell - 320 - 20.0
+28 - TarihSiyaset - Hayvan Çiftliği - George Orwell - 144 - 12.0
+29 - TarihSiyaset - Siyasal İslam Üzerine - Alev Alatlı - 368 - 25.0
+30 - TarihSiyaset - Kürk Mantolu Madonna - Sabahattin Ali - 208 - 18.0
+31 - PsikolojiFelsefe - Kendine Ait Bir Oda - Virginia Woolf - 128 - 15.0
+32 - PsikolojiFelsefe - Zamanın Kısa Tarihi - Stephen Hawking - 272 - 25.0
+33 - PsikolojiFelsefe - Mutluluk - Matthieu Ricard - 352 - 28.0
+34 - PsikolojiFelsefe - Duygusal Zeka - Daniel Goleman - 384 - 30.0
+35 - PsikolojiFelsefe - Varoluşçu Cafe - Sarah Bakewell - 448 - 32.0
+36 - PolisiyeGizem - Sherlock HolmesBütün Maceralar - Arthur Conan Doyle - 768 - 35.0

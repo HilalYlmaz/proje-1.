@@ -65,7 +65,7 @@ public class Kitap {
 
     @Override
     public String toString() {
-        return "" + id + "-" + tür + "-" + isim + "-" + yazar + "-" + sayfaSayisi + "-" + fiyat;
+        return "" + id + " - " + tür + " - " + isim + " - " + yazar + " - " + sayfaSayisi + " - " + fiyat;
     }
 
 }
